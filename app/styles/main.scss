@@ -178,18 +178,18 @@ $module-section-min-height: 700px;
     width: 500px;
   }
   @media (min-width: $screen-lg-min) {
-    width: 650px;
+    width: 645px;
   }
 }
 
 .navbar-form .form-control {
   margin-left: $navbar-padding-horizontal;
-  width: 270px;
+  width: 300px;
   @media (min-width: $screen-sm-min) {
     width: 350px;
   }
   @media (min-width: $screen-lg-min) {
-    width: 470px;
+    width: 500px;
   }
 }
 
