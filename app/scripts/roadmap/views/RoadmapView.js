@@ -1,6 +1,6 @@
 define([
   'backbone.marionette',
-  'hbs!../templates/ivle'
+  'hbs!../templates/roadmap'
 ],
 
 function(Marionette, template) {
