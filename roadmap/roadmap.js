@@ -1,4 +1,4 @@
-function forecast_for_faculty(faculty_id) {
+function forecast_faculty(faculty_id) {
 	if(faculty_id == "Computing") {
 		var computingArray = [
 			{
@@ -30,7 +30,7 @@ function forecast_for_faculty(faculty_id) {
 	}
 }
 
-function moduleDetails(module_code) {
+function module_details(module_code) {
 	var arr = {
 		"Code": module_code,
 		"Description": "This is the description for " + module_code
